@@ -27,6 +27,11 @@
             <artifactId>javax.annotation-api</artifactId>
             <version>${annotation-api.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>RELEASE</version>
+        </dependency>
     </dependencies>
 
 </project>
